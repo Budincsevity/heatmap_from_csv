@@ -1,2 +1,2 @@
-# heatmap_from_csv
+# Heatmap from CSV
 Create heatmap on Google Maps from CSV file.
