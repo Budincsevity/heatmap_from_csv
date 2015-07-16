@@ -17,4 +17,4 @@ Sample CSV:
 .
 .
 
-I'm used [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/examples/layer-heatmap) and [jquery-csv](https://code.google.com/p/jquery-csv/) library.
+I've used [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/examples/layer-heatmap) and [jquery-csv](https://code.google.com/p/jquery-csv/) library.
